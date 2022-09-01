@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8a9aafd67ab4951c",
+        "id": "88a7b1367f6dcf63",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "Zettelkasten/readme.md",
             "mode": "source",
             "source": false
           }
@@ -25,8 +25,15 @@
       {
         "id": "be51a8fd7bf50513",
         "type": "tabs",
-        "dimension": 69.71470373079737,
         "children": [
+          {
+            "id": "9689ee493bd2f6d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
           {
             "id": "133cfb73a23a6737",
             "type": "leaf",
@@ -52,15 +59,7 @@
                 "useHierarchy": true
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3b01601900debbce",
-        "type": "tabs",
-        "dimension": 30.285296269202632,
-        "children": [
+          },
           {
             "id": "a1905278a806d200",
             "type": "leaf",
@@ -89,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "Zettelkasten/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,39 +105,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "Zettelkasten/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "9689ee493bd2f6d2",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
+    "width": 285.5,
     "collapsed": true
   },
-  "active": "8a9aafd67ab4951c",
+  "active": "88a7b1367f6dcf63",
   "lastOpenFiles": [
-    "_meta/templates/zettelkasten.md",
-    "_meta/templates/daily.md",
-    "Zettelkasten/2022-09-01 02.44.md",
-    "Zettelkasten/2022-09-01 02.43.md",
-    "Zettelkasten/2022-09-01 02.42.md",
-    "Zettelkasten/2022-09-01 02.41.md",
-    "Zettelkasten/2022-09-01 02.40.md",
-    "Zettelkasten/2022-09-01 02.39.md",
-    "_meta/templates/shortcut/_generic.md",
-    "_meta/templates/shortcut/character.md"
+    "Zettelkasten/@Simon.md",
+    "Zettelkasten/readme.md",
+    "Sessions/Session 1 - \"It’s High Noon\".md",
+    "Zettelkasten/Currency.md",
+    "Zettelkasten/The Mayor.md",
+    "Zettelkasten/The Priest.md",
+    "Zettelkasten/Isaiah Matthews.md",
+    "Zettelkasten/The Sherif.md",
+    "Zettelkasten/Unidentified Killer.md",
+    "Zettelkasten/unknown person.md"
   ]
 }

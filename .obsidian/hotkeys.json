@@ -1,6 +1,10 @@
 {
   "templater-obsidian:create-new-note-from-template": [],
-  "global-search:open": [
+  "global-search:open": [],
+  "editor:save-file": [],
+  "file-explorer:new-file": [],
+  "switcher:open": [],
+  "darlal-switcher-plus:switcher-plus:open": [
     {
       "modifiers": [
         "Mod"
@@ -8,6 +12,37 @@
       "key": "S"
     }
   ],
-  "editor:save-file": [],
-  "file-explorer:new-file": []
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "workspace:toggle-pin": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:toggle-checklist-status": []
 }

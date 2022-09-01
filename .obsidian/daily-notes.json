@@ -1,4 +1,5 @@
 {
   "folder": "Sessions",
-  "template": "_meta/templates/daily"
+  "template": "_meta/templates/daily",
+  "format": ""
 }

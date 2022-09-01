@@ -1,8 +1,12 @@
 {
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./_attachments",
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
   "showFrontmatter": false,
-  "tabSize": 2
+  "tabSize": 2,
+  "userIgnoreFilters": [
+    "_meta/"
+  ],
+  "newLinkFormat": "relative"
 }

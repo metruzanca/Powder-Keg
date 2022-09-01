@@ -1,8 +1,10 @@
 [
   "homepage",
   "sliding-panes-obsidian",
-  "templater-obsidian",
   "table-editor-obsidian",
   "dataview",
-  "url-into-selection"
+  "url-into-selection",
+  "darlal-switcher-plus",
+  "alx-folder-note",
+  "folder-note-core"
 ]
