@@ -6,7 +6,7 @@
   "workspace": "Home",
   "workspaceEnabled": false,
   "hasRibbonIcon": true,
-  "openMode": "Keep open notes",
+  "openMode": "Replace all open notes",
   "view": "Default view",
   "refreshDataview": true
 }

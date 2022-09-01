@@ -4,8 +4,5 @@
   "templater-obsidian",
   "table-editor-obsidian",
   "dataview",
-  "url-into-selection",
-  "obsidian-git",
-  "folder-note-core",
-  "alx-folder-note"
+  "url-into-selection"
 ]

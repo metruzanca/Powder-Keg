@@ -4,7 +4,7 @@
   "leafMobileWidth": 350,
   "leafAutoWidth": false,
   "disabled": false,
-  "rotateHeaders": true,
+  "rotateHeaders": false,
   "headerAlt": false,
   "orienation": "mixed",
   "stackingEnabled": true,

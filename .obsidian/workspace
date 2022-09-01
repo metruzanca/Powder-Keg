@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7c4610b77c6bea96",
+        "id": "8a9aafd67ab4951c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -113,10 +113,10 @@
             }
           },
           {
-            "id": "024d7d395799b9bb",
+            "id": "9689ee493bd2f6d2",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "file-explorer",
               "state": {}
             }
           }
@@ -125,19 +125,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 250.5,
+    "collapsed": true
   },
-  "active": "7c4610b77c6bea96",
+  "active": "8a9aafd67ab4951c",
   "lastOpenFiles": [
-    "Zettelkasten/readme.md",
-    "readme.md",
-    "Sessions/readme.md",
-    "Untitled.md",
-    "_meta/templates/shortcut/character.md",
+    "_meta/templates/zettelkasten.md",
+    "_meta/templates/daily.md",
+    "Zettelkasten/2022-09-01 02.44.md",
+    "Zettelkasten/2022-09-01 02.43.md",
+    "Zettelkasten/2022-09-01 02.42.md",
+    "Zettelkasten/2022-09-01 02.41.md",
+    "Zettelkasten/2022-09-01 02.40.md",
+    "Zettelkasten/2022-09-01 02.39.md",
     "_meta/templates/shortcut/_generic.md",
-    "Zettelkasten/2022-09-01 01.56.md",
-    "Zettelkasten/2022-09-01 01.57.md",
-    "Zettelkasten/2022-09-01 01.59.md",
-    "_meta/templates/zettelkasten.md"
+    "_meta/templates/shortcut/character.md"
   ]
 }

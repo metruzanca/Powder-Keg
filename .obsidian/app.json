@@ -1,6 +1,6 @@
 {
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "/_attachments",
+  "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
   "showFrontmatter": false,

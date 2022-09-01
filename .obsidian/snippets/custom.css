@@ -3,6 +3,7 @@
 .side-dock-ribbon-action[aria-label="Open command palette"] { display: none; }
 .side-dock-ribbon-action[aria-label="Open quick switcher"] { display: none; }
 .side-dock-ribbon-action[aria-label="Advanced Tables Toolbar"] { display: none; }
+.side-dock-ribbon-action[aria-label="Templater"] { display: none; }
 /* Hide help button for cleaner UI */
 .side-dock-ribbon-action[aria-label="Help"] { display: none; }
 /* Search buttons */
