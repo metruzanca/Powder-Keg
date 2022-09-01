@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "19aebbd6d95b326c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9449ae1d5fbee6e1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_meta/templates/daily.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e7e9ecd398e2f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "be51a8fd7bf50513",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "133cfb73a23a6737",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1905278a806d200",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2874e79572d11477",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b5a205f0eecfcb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d4b6b1edb235139",
+    "type": "split",
+    "children": [
+      {
+        "id": "518dc12d938fcb0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52d85d050990be58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_meta/templates/daily.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ee82a8cb8823ae0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_meta/templates/daily.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9449ae1d5fbee6e1",
+  "lastOpenFiles": [
+    "Zettelkasten/2022-09-01 01.30.md",
+    "_meta/templates/shortcut/location.md",
+    "_meta/templates/shortcut/character.md",
+    "Zettelkasten/2022-09-01 12.58.md",
+    "_meta/templates/zettelkasten.md",
+    "readme.md",
+    "Home.md"
+  ]
+}

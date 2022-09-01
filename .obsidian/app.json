@@ -1,0 +1,8 @@
+{
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "/_attachments",
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "tabSize": 2
+}
