@@ -3,6 +3,6 @@
   "attachmentFolderPath": "/_attachments",
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "tabSize": 2
 }

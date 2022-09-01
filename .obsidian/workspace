@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9449ae1d5fbee6e1",
+        "id": "7c4610b77c6bea96",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_meta/templates/daily.md",
+            "file": "readme.md",
             "mode": "source",
             "source": false
           }
@@ -25,6 +25,7 @@
       {
         "id": "be51a8fd7bf50513",
         "type": "tabs",
+        "dimension": 69.71470373079737,
         "children": [
           {
             "id": "133cfb73a23a6737",
@@ -42,22 +43,6 @@
             }
           },
           {
-            "id": "a1905278a806d200",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "2874e79572d11477",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "0b5a205f0eecfcb1",
             "type": "leaf",
             "state": {
@@ -69,11 +54,26 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "3b01601900debbce",
+        "type": "tabs",
+        "dimension": 30.285296269202632,
+        "children": [
+          {
+            "id": "a1905278a806d200",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 309.5
   },
   "right": {
     "id": "9d4b6b1edb235139",
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_meta/templates/daily.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,27 +106,38 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_meta/templates/daily.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "024d7d395799b9bb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 399.5
   },
-  "active": "9449ae1d5fbee6e1",
+  "active": "7c4610b77c6bea96",
   "lastOpenFiles": [
-    "Zettelkasten/2022-09-01 01.30.md",
-    "_meta/templates/shortcut/location.md",
-    "_meta/templates/shortcut/character.md",
-    "Zettelkasten/2022-09-01 12.58.md",
-    "_meta/templates/zettelkasten.md",
+    "Zettelkasten/readme.md",
     "readme.md",
-    "Home.md"
+    "Sessions/readme.md",
+    "Untitled.md",
+    "_meta/templates/shortcut/character.md",
+    "_meta/templates/shortcut/_generic.md",
+    "Zettelkasten/2022-09-01 01.56.md",
+    "Zettelkasten/2022-09-01 01.57.md",
+    "Zettelkasten/2022-09-01 01.59.md",
+    "_meta/templates/zettelkasten.md"
   ]
 }

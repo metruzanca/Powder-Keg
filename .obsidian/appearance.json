@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Obsidianite",
+  "cssTheme": "",
   "enabledCssSnippets": [
-    "toolbar"
+    "toolbar",
+    "custom"
   ]
 }

@@ -5,3 +5,7 @@
 .side-dock-ribbon-action[aria-label="Advanced Tables Toolbar"] { display: none; }
 /* Hide help button for cleaner UI */
 .side-dock-ribbon-action[aria-label="Help"] { display: none; }
+/* Search buttons */
+.nav-action-button[aria-label="Copy search results"] { display: none; }
+.nav-action-button[aria-label="Explain search term"] { display: none; }
+.nav-action-button[aria-label="Change sort order"] { display: none; }

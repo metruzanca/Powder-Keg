@@ -1,1 +1,13 @@
-{}
+{
+  "templater-obsidian:create-new-note-from-template": [],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:save-file": [],
+  "file-explorer:new-file": []
+}
