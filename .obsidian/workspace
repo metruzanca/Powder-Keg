@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ce2a6cc0adf09449",
+        "id": "7b05616704491fd0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/readme.md",
-            "mode": "source",
+            "file": "Zettelkasten/private/D-16 Character Arc.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/readme.md",
+                "file": "Zettelkasten/private/D-16 Character Arc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/readme.md",
+                "file": "Zettelkasten/private/D-16 Character Arc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +117,17 @@
     "direction": "horizontal",
     "width": 285.5
   },
-  "active": "9689ee493bd2f6d2",
+  "active": "7b05616704491fd0",
   "lastOpenFiles": [
+    "Zettelkasten/D-16.md",
+    "Zettelkasten/private/D-16 Character Arc.md",
+    "Zettelkasten/private/_attachments/Pasted image 20220902122700.png",
+    "[.md",
+    "Zettelkasten/Colton.md",
+    "Zettelkasten/readme.md",
     "Zettelkasten/Cassie.md",
     "Zettelkasten/unknown person.md",
     "Zettelkasten/Unidentified Killer.md",
-    "Zettelkasten/Father Richards.md",
-    "Zettelkasten/Elisabeth.md",
-    "Zettelkasten/Dishonourable.md",
-    "Zettelkasten/Dallas.md",
-    "Zettelkasten/Currency.md",
-    "Zettelkasten/Cumberdale.md",
-    "Zettelkasten/Copperberg.md"
+    "Zettelkasten/Father Richards.md"
   ]
 }
