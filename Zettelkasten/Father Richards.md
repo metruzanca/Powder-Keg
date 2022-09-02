@@ -1,8 +1,10 @@
 ---
 date: '2022-09-01 06.08'
-aliases: []
+aliases: ['The Priest']
 ---
 #character 
 # Father Richards
 
 Race: [Fucking Robot](Warforged.md)
+
+Potentially involved with the murder of [Cassie](Cassie.md)

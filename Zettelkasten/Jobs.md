@@ -11,7 +11,7 @@ Completing your job and the tasks that come with it within the roleplay sections
 - [Undertaker](Undertaker.md) 
 - [Priest](Priest.md)
 - [Gambler](Gambler.md)
-- [Sheriff](Sheriff.md)
+- [Sheriff (job)](Sheriff%20(job).md)
 - [Bartender](Bartender.md)
 - [Doctor](Doctor.md)
 - [Messenger](Messenger.md)

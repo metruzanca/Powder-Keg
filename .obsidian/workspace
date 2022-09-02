@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88a7b1367f6dcf63",
+        "id": "ce2a6cc0adf09449",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/readme.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -88,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,20 +109,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
-  "active": "88a7b1367f6dcf63",
+  "active": "ce2a6cc0adf09449",
   "lastOpenFiles": [
-    "Zettelkasten/@Simon.md",
-    "Zettelkasten/readme.md",
     "Sessions/Session 1 - \"It’s High Noon\".md",
-    "Zettelkasten/Currency.md",
-    "Zettelkasten/The Mayor.md",
-    "Zettelkasten/The Priest.md",
-    "Zettelkasten/Isaiah Matthews.md",
     "Zettelkasten/The Sherif.md",
-    "Zettelkasten/Unidentified Killer.md",
-    "Zettelkasten/unknown person.md"
+    "Zettelkasten/Rafkoris Sunder.md",
+    "Zettelkasten/Sheriff (job).md",
+    "Zettelkasten/Father Richards.md",
+    "the prei.md",
+    "Zettelkasten/The Priest.md",
+    "Sessions/Session 2 - \"_placeholder_\".md",
+    "Zettelkasten/readme.md",
+    "Zettelkasten/@Simon.md"
   ]
 }

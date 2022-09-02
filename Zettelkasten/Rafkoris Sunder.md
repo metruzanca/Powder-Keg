@@ -1,6 +1,6 @@
 ---
 date: '2022-09-01 05.19'
-aliases: ['Raf']
+aliases: ['Raf', 'The Sherif']
 ---
 #character/pc by [@Terron](@Terron.md)
 # Rafkoris Sunder [They/Them]
@@ -8,5 +8,5 @@ aliases: ['Raf']
 |       |                             |
 | ----- | --------------------------- |
 | Class | Homebrew "The Fourshot" based on fighter                     |
-| Job   | [Deputy](Sheriff.md) |
+| Job   | [Deputy](Sheriff%20(job).md) |
 

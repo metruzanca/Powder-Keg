@@ -44,13 +44,13 @@ Trainwreck:
 -   Introduces himself as [Isaiah Matthews](../Zettelkasten/Isaiah%20Matthews.md)
 -   He outright murders someone
 -   He talks about wanting a train line in town
--   He tries to shoot [The Sherif](../Zettelkasten/The%20Sherif.md) 
+-   He tries to shoot [The Sherif](../Zettelkasten/Rafkoris%20Sunder.md)
 	-   it’s Initiative
 -   We take out all the goons, one is caught alive
 -   The Boss gets away, but not before taking down [Colton](../Zettelkasten/Colton.md) and threatening to burn down Mersey and take revenge
 
 The Aftermath
--   [The Mayor](../Zettelkasten/The%20Mayor.md) and [The Priest](../Zettelkasten/The%20Priest.md) come in and talk
+-   [The Mayor](../Zettelkasten/The%20Mayor.md) and [The Priest](../Zettelkasten/Father%20Richards.md) come in and talk
 -   Both go silent, when the name “Cassie” is mentioned
 
 Loot:
