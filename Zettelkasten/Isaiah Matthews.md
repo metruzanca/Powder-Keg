@@ -2,7 +2,7 @@
 date: '2022-09-01 06.21'
 aliases: []
 ---
-#character 
+#npc 
 # Isaiah Matthews
 _Likes to shoot in the sky._
 

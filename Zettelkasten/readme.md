@@ -16,9 +16,9 @@ aliases: ["Zettelkasten"]
 
 ## Tags
 
-- #character: NPC and PC character information
-	- #character/pc: PC character
-	- #character/npc: NPC (enemies and friendlies) characters
+- #player: Self explanatory
+- #player/pc: PC character
+- #npc: NPC (enemies and friendlies) characters
 - #location: Location (e.g. city, a city district, a country, etc)
 	- #location/town
 - #lore: World building of any kind
@@ -27,6 +27,8 @@ aliases: ["Zettelkasten"]
 	- #item/weapon
 	- #item/tool
 - #job
+- #mystery 
+- #quest
 
 > [!INFO]
 > Remember nested tags are a thing, no need to use both `#character` and `#character/pc`.

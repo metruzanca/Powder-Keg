@@ -2,7 +2,7 @@
 date: '2022-09-01 05.22'
 aliases: []
 ---
-#character/pc by [@Aiden](@Aiden.md)
+#player/pc by [@Aiden](@Aiden.md)
 # Colton [He/Him]
 |       |                           |
 | ----- | ------------------------- |

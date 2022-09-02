@@ -2,7 +2,7 @@
 date: '2022-09-01 06.13'
 aliases: []
 ---
-#character 
+#npc 
 # Cassie [Dead]
 
 Used to work for [Cecil Montague](Cecil%20Montague.md).

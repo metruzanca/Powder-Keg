@@ -3,7 +3,7 @@ date: '2022-09-01 06.16'
 aliases: ["Cassie's killer"]
 ---
 
-#character #mystery
+#npc #mystery
 # Unidentified Killer
 Has a Bounty for killing [Cassie](Cassie.md)
 

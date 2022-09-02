@@ -3,7 +3,7 @@ date: '2022-09-01 05.41'
 aliases: []
 ---
 
-#character/npc 
+#npc 
 # Cecil Montague
 ![](_attachments/cecil-montague.png)
 

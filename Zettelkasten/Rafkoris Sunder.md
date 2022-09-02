@@ -2,7 +2,7 @@
 date: '2022-09-01 05.19'
 aliases: ['Raf', 'The Sherif']
 ---
-#character/pc by [@Terron](@Terron.md)
+#player/pc by [@Terron](@Terron.md)
 # Rafkoris Sunder [They/Them]
 ![](_attachments/Rafkoris.png)
 |       |                             |

@@ -7,8 +7,12 @@
         "id": "ce2a6cc0adf09449",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/readme.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -84,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,17 +117,17 @@
     "direction": "horizontal",
     "width": 285.5
   },
-  "active": "ce2a6cc0adf09449",
+  "active": "9689ee493bd2f6d2",
   "lastOpenFiles": [
-    "Sessions/Session 1 - \"It’s High Noon\".md",
-    "Zettelkasten/The Sherif.md",
-    "Zettelkasten/Rafkoris Sunder.md",
-    "Zettelkasten/Sheriff (job).md",
+    "Zettelkasten/Cassie.md",
+    "Zettelkasten/unknown person.md",
+    "Zettelkasten/Unidentified Killer.md",
     "Zettelkasten/Father Richards.md",
-    "the prei.md",
-    "Zettelkasten/The Priest.md",
-    "Sessions/Session 2 - \"_placeholder_\".md",
-    "Zettelkasten/readme.md",
-    "Zettelkasten/@Simon.md"
+    "Zettelkasten/Elisabeth.md",
+    "Zettelkasten/Dishonourable.md",
+    "Zettelkasten/Dallas.md",
+    "Zettelkasten/Currency.md",
+    "Zettelkasten/Cumberdale.md",
+    "Zettelkasten/Copperberg.md"
   ]
 }

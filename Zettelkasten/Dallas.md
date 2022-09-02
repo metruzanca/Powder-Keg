@@ -3,7 +3,7 @@ date: '2022-09-01 05.11'
 aliases: ['Sunrise']
 ---
 
-#character/pc by [@Coli](@Coli.md)
+#player/pc by [@Coli](@Coli.md)
 # Dallas [He/Him]
 |       |                           |
 | ----- | ------------------------- |
