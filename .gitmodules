@@ -1,0 +1,3 @@
+[submodule "Zettelkasten/private"]
+	path = Zettelkasten/private
+	url = git@github.com:metruzanca/Powder-Keg_D-16.git
