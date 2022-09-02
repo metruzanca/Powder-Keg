@@ -8,5 +8,8 @@
   "userIgnoreFilters": [
     "_meta/"
   ],
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten",
+  "communityThemeSortOrder": "download"
 }

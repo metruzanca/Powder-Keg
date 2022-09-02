@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "_meta/templates/shortcut",
+  "templates_folder": "_meta/templates",
   "templates_pairs": [
     [
       "",
@@ -12,11 +12,11 @@
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": false,
+  "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Zettelkasten",
+      "template": "_meta/templates/zettelkasten.md"
     }
   ],
   "syntax_highlighting": true,

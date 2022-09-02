@@ -8,9 +8,8 @@
   "tag-pane",
   "page-preview",
   "daily-notes",
+  "templates",
   "command-palette",
-  "slash-command",
   "editor-status",
-  "starred",
-  "zk-prefixer"
+  "starred"
 ]
