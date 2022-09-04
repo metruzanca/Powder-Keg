@@ -8,4 +8,4 @@ aliases: []
 
 A women, dressed completely in black (very fine clothing) and wears a mask that covers half of her face.
 
-Possibly same race as [Dallas](Dallas.md) as her head also smokes.
+Possibly same race as [Dallas Delaney](Dallas%20Delaney.md) as her head also smokes.

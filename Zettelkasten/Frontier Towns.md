@@ -5,7 +5,7 @@ aliases: []
 #lore
 # Frontier Towns
 
-Frontier Towns are established as spots for those Settlers to slowly expand and live in, most of them in the middle of nowhere, only able to survive off the trains and the wagons that bring them the food they need to live.
+Frontier Towns are established as spots for those Settlers to slowly expand and live in, most of them in the middle of nowhere ([Many Valley Strait](Many%20Valley%20Strait.md)), only able to survive off the trains and the wagons that bring them the food they need to live.
 
 ## Known Frontier Towns
 - [Mersey](Mersey.md)

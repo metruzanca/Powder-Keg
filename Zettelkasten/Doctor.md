@@ -2,7 +2,7 @@
 date: '2022-09-01 03.56'
 aliases: ['Surgeon']
 ---
-
+#mechanic/job 
 # Doctor/Surgeon
 
 People need to remain in the peak of health. That’s easier said than done when you have poisonous snakes, dangerous outlaws and mines that have a higher fatality rate than the plague. But that’s alright! The Doctor earns a healthy commission off of it…

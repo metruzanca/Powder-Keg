@@ -3,7 +3,7 @@ date: '2022-09-01 03.45'
 aliases: ['Father']
 ---
 
-#job 
+#mechanic/job 
 
 # Priest/Father
 
@@ -16,7 +16,7 @@ Mersey has residents of Catholic, Protestant and Jewish birth, but in a small to
 
 As a Priest, you are able to petition for Charity. This depends on your Goodwill and Morality, two stats which will increase or decrease as your time with the town goes on.
 
-At **1st Level**, you are able to read Latin and one other language due to your time studying. As a Paladin, When you use Divine Smite, you are able to add your proficiency bonus in d6 to one attack per long rest. As a Cleric, you are able to heal a single time for 5 * proficiency bonus per short rest. 
+At **1st Level**, you are able to read Latin and one other language due to your time studying. As a Paladin, When you use Divine Smite, you are able to add your proficiency bonus in d6 to one attack per long rest. As a Cleric, you are able to heal a single time for 5 * proficiency bonus per short rest.
 
 At **3rd Level** you gain access to one extra spell slot as long as you are in positive morality. If your morality is negative, you instead deal an extra 2d8 necrotic damage on all attacks. If you are neutral morality, you gain 10ft movement speed.
 

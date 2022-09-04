@@ -2,7 +2,7 @@
 date: '2022-09-01 03.55'
 aliases: []
 ---
-
+#mechanic/job 
 # Bartender
 
 Everyone needs a drink and everyone needs to tell a story, and no-one is best to listen and keep secrets than the mind behind the bar. A few stiff drinks and anyone will be revealing their life story to you…

@@ -29,3 +29,8 @@ Maybe you’re just passing through. Maybe you were born here and have been long
 ![Jobs](Jobs.md)
 
 As the DM, I will work with you to figure out which job suits your story, but some jobs are limited to only one player, other jobs are more lenient. If you do not come from Mersey, your job will be given to you later in the tale but you still may gain the benefits of the job.
+
+## Other Mechanics
+
+![Currency](Currency.md)
+

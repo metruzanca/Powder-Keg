@@ -8,3 +8,5 @@ aliases: ['The Storyteller']
 
 The DM.
 
+![](_attachments/the-storyteller.png)
+

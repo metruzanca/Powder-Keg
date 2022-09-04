@@ -1,39 +1,9 @@
 {
   "items": [
     {
-      "type": "file",
-      "title": "Claire",
-      "path": "Zettelkasten/Claire.md"
-    },
-    {
-      "type": "file",
-      "title": "Colton",
-      "path": "Zettelkasten/Colton.md"
-    },
-    {
-      "type": "file",
-      "title": "D-16",
-      "path": "Zettelkasten/D-16.md"
-    },
-    {
-      "type": "file",
-      "title": "Dallas",
-      "path": "Zettelkasten/Dallas Delaney.md"
-    },
-    {
-      "type": "file",
-      "title": "Elisabeth",
-      "path": "Zettelkasten/Elisabeth.md"
-    },
-    {
-      "type": "file",
-      "title": "Rafkoris Sunder",
-      "path": "Zettelkasten/Rafkoris Sunder.md"
-    },
-    {
       "type": "search",
-      "title": "tag:#player/pc",
-      "query": "tag:#player/pc"
+      "title": "tag:#todo",
+      "query": "tag:#todo"
     }
   ]
 }

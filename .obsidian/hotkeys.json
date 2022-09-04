@@ -11,14 +11,6 @@
       "key": "S"
     }
   ],
-  "zk-prefixer": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
   "editor:swap-line-down": [
     {
       "modifiers": [
@@ -43,5 +35,13 @@
       "key": "Enter"
     }
   ],
-  "editor:toggle-checklist-status": []
+  "editor:toggle-checklist-status": [],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 ---
 aliases: ["Sessions"]
 ---
-# Sessions
+
 ```dataview
 TABLE
 date as "Date"

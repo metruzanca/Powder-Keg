@@ -4,25 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2e073e0df9049068",
+        "id": "5c8028aa8a08be8e",
         "type": "tabs",
         "children": [
           {
-            "id": "482fd28e9d308a3f",
+            "id": "3930ff718b220e64",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 2 - \"_placeholder_\".md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "graph",
+              "state": {},
               "pinned": true
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -50,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#mechanic/job",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +54,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a9fa43127afc55c0",
@@ -85,7 +81,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 2 - \"_placeholder_\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 2 - \"_placeholder_\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,26 +130,33 @@
               "type": "file-explorer",
               "state": {}
             }
+          },
+          {
+            "id": "33c8c44f1d6a8015",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
-  "active": "482fd28e9d308a3f",
+  "active": "3930ff718b220e64",
   "lastOpenFiles": [
-    "Zettelkasten/Isaiah Matthews.md",
-    "Sessions/Session 2 - \"_placeholder_\".md",
-    "Zettelkasten/Rafkoris Sunder.md",
-    "Zettelkasten/The Phantoms.md",
-    "Zettelkasten/The Sherif.md",
-    "Zettelkasten/Lilac.md",
-    "Zettelkasten/private/D-16 Character Arc.md",
-    "Zettelkasten/Dallas Delaney.md",
-    "Zettelkasten/Pillerbottom's Daughter.md",
-    "Zettelkasten/Mayor Pillerbottom.md"
+    "Sessions/Session 2 - \"Cold-Blooded Murder\".md",
+    "Zettelkasten/@Owen.md",
+    "Zettelkasten/readme.md",
+    "Zettelkasten/Colton.md",
+    "Zettelkasten/_Powder & Keg.md",
+    "Zettelkasten/Ritual Magic.md",
+    "Zettelkasten/Shamanism.md",
+    "Zettelkasten/Jobs.md",
+    "readme.md",
+    "Zettelkasten/Doctor.md"
   ]
 }

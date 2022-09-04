@@ -9,7 +9,9 @@
     "_meta/"
   ],
   "newLinkFormat": "relative",
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "Zettelkasten",
-  "communityThemeSortOrder": "download"
+  "communityThemeSortOrder": "download",
+  "spellcheck": true,
+  "communityPluginSortOrder": "download"
 }

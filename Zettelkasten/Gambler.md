@@ -3,7 +3,7 @@ date: '2022-09-01 03.39'
 aliases: ['Fortune Teller']
 ---
 
-#job
+#mechanic/job
 
 # Gambler/Fortune Teller
 

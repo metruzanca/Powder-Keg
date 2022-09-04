@@ -5,4 +5,4 @@ aliases: []
 
 #player 
 # Coli
-Character: [Dallas](Dallas.md)
+Character: [Dallas Delaney](Dallas%20Delaney.md)

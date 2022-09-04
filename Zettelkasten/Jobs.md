@@ -2,6 +2,7 @@
 date: '2022-09-01 03.35'
 aliases: []
 ---
+#mechanic 
 
 [Jobs](Jobs.md) are in addition to your Subclass and Class and give additional benefits. If you are fired or lose your job, you may lose some of your traits or bonuses if they rely on having the job rather than having the skill. Your job is levelled up alongside your skills.
 

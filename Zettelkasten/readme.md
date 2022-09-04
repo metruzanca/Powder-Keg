@@ -1,15 +1,14 @@
 ---
 aliases: ["Zettelkasten"]
 ---
-# Zettelkasten
 
 ## Start Here -> [Introduction](_Powder%20&%20Keg.md)
 
 ## Players
 - [@Owen](@Owen.md) - [The Storyteller](@Owen.md) 
 - [@Aiden](@Aiden.md) - [Colton](Colton.md)
-- [@Coli](@Coli.md) - [Dallas](Dallas.md)
-- [@Sam](@Sam.md) - 
+- [@Coli](@Coli.md) - [Dallas Delaney](Dallas%20Delaney.md)
+- [@Sam](@Sam.md) - [D-16](D-16.md)
 - [@Simon](@Simon.md) - [Claire](Claire.md)
 - [@Terron](@Terron.md) - [Rafkoris Sunder](Rafkoris%20Sunder.md)
 - [@Zoey](@Zoey.md) - [Elisabeth](Elisabeth.md)
@@ -24,9 +23,7 @@ aliases: ["Zettelkasten"]
 - #lore: World building of any kind
 - #mechanic: Game mechanics
 - #item: items, weapons, tools
-	- #item/weapon
-	- #item/tool
-- #job
+- #mechanic/job
 - #mystery 
 - #quest
 

@@ -2,7 +2,7 @@
 date: '2022-09-01 03.54'
 aliases: ['Deputy', 'Lawmaker']
 ---
-
+#mechanic/job 
 # Sheriff
 
 You don’t start as a Sheriff, more likely as a deputy or a Lawmaker of some kind. Your duty is to enforce the law and protect the people. Whose laws? Well, that’s a whole other thing. See, a Sheriff doesn't have to be the most morally sound of people… why should they love you when they can fear you?

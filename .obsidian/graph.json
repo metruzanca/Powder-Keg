@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-file:readme",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -15,30 +15,65 @@
       }
     },
     {
-      "query": "tag:#character",
+      "query": "tag:#npc",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 52479
       }
     },
     {
       "query": "tag:#location",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 4456703
+      }
+    },
+    {
+      "query": "path:Sessions",
+      "color": {
+        "a": 1,
+        "rgb": 35344
+      }
+    },
+    {
+      "query": "path:Quests",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
+      }
+    },
+    {
+      "query": "tag:#player",
+      "color": {
+        "a": 1,
+        "rgb": 7462994
+      }
+    },
+    {
+      "query": "tag:#mechanic",
+      "color": {
+        "a": 1,
+        "rgb": 11075502
+      }
+    },
+    {
+      "query": "tag:lore",
+      "color": {
+        "a": 1,
+        "rgb": 14059261
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 5,
+  "lineSizeMultiplier": 1.4362548828125,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.6925346042977779,
   "close": true
 }

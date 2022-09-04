@@ -2,7 +2,7 @@
 date: "2022-08-26 00.00"
 session: 1
 ---
-<< | [Session 2 - "_placeholder_"](Session%202%20-%20"_placeholder_".md) >>
+<< | [Session 2 - "Cold-Blooded Murder"](Session%202%20-%20"Cold-Blooded%20Murder".md) >>
 
 _Notes by [@Zoey](../Zettelkasten/@Zoey.md)_
 
@@ -15,7 +15,7 @@ _Notes by [@Zoey](../Zettelkasten/@Zoey.md)_
 
 <!--Theres a gap here for some reason in the original notes-->
 
--   [Dallas](../Zettelkasten/Dallas.md) sees an [unknown person](../Zettelkasten/unknown%20person.md). A women, dressed completely in black (very fine clothing)    
+-   [Dallas Delaney](../Zettelkasten/Dallas%20Delaney.md) sees an [unknown person](../Zettelkasten/unknown%20person.md). A women, dressed completely in black (very fine clothing)    
 -   She asks where to find the church
 -   She seems to be smoking in a similar way than Dallas head does, but it seems gone with a blink
 
@@ -50,8 +50,10 @@ Trainwreck:
 -   The Boss gets away, but not before taking down [Colton](../Zettelkasten/Colton.md) and threatening to burn down Mersey and take revenge
 
 The Aftermath
--   [The Mayor](../Zettelkasten/The%20Mayor.md) and [The Priest](../Zettelkasten/Father%20Richards.md) come in and talk
+-   [Mayor Pillerbottom](../Zettelkasten/Mayor%20Pillerbottom.md) and [The Priest](../Zettelkasten/Father%20Richards.md) come in and talk
 -   Both go silent, when the name “Cassie” is mentioned
+
+We learned that [Isaiah Matthews](../Zettelkasten/Isaiah%20Matthews.md) is part [The Phantoms](../Zettelkasten/The%20Phantoms.md) and is from [Lilac](../Zettelkasten/Lilac.md).
 
 Loot:
 -   2x Shotguns: One for Elisabeth, one for Dallas (2d12, Max fire 2)
@@ -60,4 +62,3 @@ Loot:
 -   8x .36 cartridges: 2x Liz, 2x dallas, 2x Colton, 2x Raf
 -   16 dollars (4 gold each)
 -   48 cents (1 silver & 2 copper each)
-
