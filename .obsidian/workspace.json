@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "cdc51b208287054a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Firearms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Firearms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Firearms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,8 +161,9 @@
     "direction": "horizontal",
     "width": 285.5
   },
-  "active": "3930ff718b220e64",
+  "active": "cdc51b208287054a",
   "lastOpenFiles": [
+    "readme.md",
     "Sessions/Session 2 - \"Cold-Blooded Murder\".md",
     "Zettelkasten/@Owen.md",
     "Zettelkasten/readme.md",
@@ -156,7 +172,6 @@
     "Zettelkasten/Ritual Magic.md",
     "Zettelkasten/Shamanism.md",
     "Zettelkasten/Jobs.md",
-    "readme.md",
     "Zettelkasten/Doctor.md"
   ]
 }

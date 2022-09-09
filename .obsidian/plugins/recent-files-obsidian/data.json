@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Firearms",
+      "path": "Zettelkasten/Firearms.md"
+    },
+    {
+      "basename": "readme",
+      "path": "readme.md"
+    },
+    {
       "basename": "Session 2 - \"Cold-Blooded Murder\"",
       "path": "Sessions/Session 2 - \"Cold-Blooded Murder\".md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Jobs",
       "path": "Zettelkasten/Jobs.md"
-    },
-    {
-      "basename": "readme",
-      "path": "readme.md"
     },
     {
       "basename": "Doctor",
