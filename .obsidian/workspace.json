@@ -16,8 +16,23 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "00cfe7a4909db280",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 3 - placeholder.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a9fa43127afc55c0",
@@ -102,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/Session 3 - placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions/Session 3 - placeholder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +162,17 @@
     "direction": "horizontal",
     "width": 285.5
   },
-  "active": "3930ff718b220e64",
+  "active": "00cfe7a4909db280",
   "lastOpenFiles": [
-    "Sessions/Session 2 - \"Cold-Blooded Murder\".md",
-    "Zettelkasten/@Owen.md",
-    "Zettelkasten/readme.md",
-    "Zettelkasten/Colton.md",
-    "Zettelkasten/_Powder & Keg.md",
-    "Zettelkasten/Ritual Magic.md",
-    "Zettelkasten/Shamanism.md",
-    "Zettelkasten/Jobs.md",
+    "Zettelkasten/Currency.md",
+    "Zettelkasten/Elisabeth.md",
+    "Sessions/Nathaniel.md",
+    "Sessions/Session 3 - placeholder.md",
+    "Inbox/Character Checklist.md",
+    "Zettelkasten/Claire.md",
     "readme.md",
-    "Zettelkasten/Doctor.md"
+    "Sessions/readme.md",
+    "Sessions/Session 2 - \"Cold-Blooded Murder\".md",
+    "Zettelkasten/@Owen.md"
   ]
 }
