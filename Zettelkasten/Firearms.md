@@ -10,6 +10,8 @@ Firearms in this world are not as simple as they would become in the years of wa
 ### Max Fire (MF)
 Max Fire is the maximum number of times the weapon can be fired on your turn, irregardless of your Extra Attack amounts. This is to replicate real life weaponry’s Rounds Per Minute/Per Second and the Max Fire of a weapon can only be increased by improving the weapon, upgrading the weapon or enchanting the weapon.
 
+> Numbers in parenthesis will be with disadvantage.
+
 | Gun                 | Range      | Cartridge | MF  | Damage | Misfire | Rounds | Traits                      |
 | ------------------- | ---------- | --------- | --- | ------ | ------- | ------ | --------------------------- |
 | Colt Revolver       | 80 (140)   | .36       | 4   | 1d8    | 4       | 6      |                             |

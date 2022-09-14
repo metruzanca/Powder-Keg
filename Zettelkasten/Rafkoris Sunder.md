@@ -1,6 +1,6 @@
 ---
 date: '2022-09-01 05.19'
-aliases: ['Raf', 'The Sherif']
+aliases: ['Raf', 'The Sherif', 'Mr. Cream']
 ---
 #player/pc by [@Terron](@Terron.md)
 # Rafkoris Sunder [They/Them]

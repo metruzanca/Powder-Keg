@@ -1,5 +1,7 @@
 ---
-aliases: ['Quest Tracker']
+
+aliases:
+  - Quest Tracker
 kanban-plugin: basic
 
 ---

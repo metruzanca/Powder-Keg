@@ -13,4 +13,4 @@ aliases: ['Sunrise', 'Dallas']
 
 ![](_attachments/dallas-sunrise.png)
 
-Dallas' bar has drinks that cost ~40cents. _Though[Raf](Rafkoris%20Sunder.md) estimated 2 dollars to be the price and has overpaid by 2.5x_.
+Dallas' bar has drinks that cost ~40cents. _Though [Raf](Rafkoris%20Sunder.md) estimated 2 dollars to be the price and has overpaid by 2.5x_.

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5c8028aa8a08be8e",
+        "id": "59524d01481c26b1",
         "type": "tabs",
         "children": [
           {
-            "id": "3930ff718b220e64",
+            "id": "846df09e0954dc32",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "00cfe7a4909db280",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 3 - placeholder.md",
+                "file": "Sessions/Session 2 - Cold-Blooded Murder.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mechanic/job",
+                "query": "tag:#player/pc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a9fa43127afc55c0",
@@ -100,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "9d4b6b1edb235139",
@@ -116,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 3 - placeholder.md",
+                "file": "Sessions/Session 2 - Cold-Blooded Murder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 3 - placeholder.md",
+                "file": "Sessions/Session 2 - Cold-Blooded Murder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,24 +144,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 285.5
   },
-  "active": "00cfe7a4909db280",
+  "active": "846df09e0954dc32",
   "lastOpenFiles": [
-    "Sessions/Session 3 - placeholder.md",
-    "Zettelkasten/Currency.md",
+    "Sessions/Session 3 - Quick-Draw.md",
+    "Sessions/Session 2 - Cold-Blooded Murder.md",
+    "Sessions/Session 1 - It’s High Noon.md",
+    "Sessions/Samuel.md",
+    "Zettelkasten/Rafkoris Sunder.md",
+    "Zettelkasten/D-16.md",
+    "Zettelkasten/D16 - Knowledge Base.md",
+    "Zettelkasten/Mersey.md",
     "Zettelkasten/Elisabeth.md",
-    "Sessions/Nathaniel.md",
-    "Inbox/Character Checklist.md",
-    "Zettelkasten/Claire.md",
-    "readme.md",
-    "Sessions/readme.md",
-    "Sessions/Session 2 - \"Cold-Blooded Murder\".md",
-    "Zettelkasten/@Owen.md"
+    "Sessions/Unmarked Cave.md"
   ]
 }

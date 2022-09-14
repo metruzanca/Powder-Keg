@@ -6,6 +6,9 @@ aliases: []
 #player/pc by [@Zoey](@Zoey.md)
 # Elisabeth [She/her]
 ![](_attachments/Elisabeth.png)
+
+
+
 |       |                             |
 | ----- | --------------------------- |
 | Class | Paladin                     |
