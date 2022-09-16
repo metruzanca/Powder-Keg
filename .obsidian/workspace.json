@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "b52cc6fe1c76eb08",
+        "id": "5c8028aa8a08be8e",
         "type": "tabs",
         "children": [
           {
-            "id": "8d77a6a0b7fe1608",
+            "id": "3930ff718b220e64",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "39040625e188415e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/D-16.md",
-                "mode": "source",
+                "file": "Inbox/Character Progression.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -47,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#player/pc",
+                "query": "tag:#mechanic/job",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a9fa43127afc55c0",
@@ -105,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/D-16.md",
+                "file": "Inbox/Character Progression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/D-16.md",
+                "file": "Inbox/Character Progression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,23 +154,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
-  "active": "8d77a6a0b7fe1608",
+  "active": "39040625e188415e",
   "lastOpenFiles": [
+    "Inbox/Character Checklist.md",
+    "readme.md",
     "Zettelkasten/private/D-16 Character Arc.md",
     "Zettelkasten/D-16.md",
-    "private/D-16 Character Arc.md",
-    "Sessions/Session 2 - Cold-Blooded Murder.md",
-    "Sessions/Session 3 - Quick-Draw.md",
-    "Sessions/Session 1 - It’s High Noon.md",
-    "Sessions/Samuel.md",
-    "Zettelkasten/Rafkoris Sunder.md",
-    "Zettelkasten/D16 - Knowledge Base.md",
-    "Zettelkasten/Mersey.md"
+    "Sessions/Session 2 - \"Cold-Blooded Murder\".md",
+    "Zettelkasten/@Owen.md",
+    "Zettelkasten/readme.md",
+    "Zettelkasten/Colton.md",
+    "Zettelkasten/_Powder & Keg.md",
+    "Zettelkasten/Ritual Magic.md"
   ]
 }

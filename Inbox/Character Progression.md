@@ -22,6 +22,10 @@ aliases: []
 	- Agonizing Blast
 	- Grasp of Hadar #todo as [@Owen](../Zettelkasten/@Owen.md) if this pulls them out of cover or if its blocked by cover. Alternatively grab Repelling Blast
 
+
+<hr><p align="center">Unobtained</p><hr>
+
+
 ## 3rd lvl
 - **Unlocked 2nd lvl spells**
 - **Pact Boon**
